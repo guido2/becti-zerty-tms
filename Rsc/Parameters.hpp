@@ -177,7 +177,7 @@ class Params {
 		title = "Zerty: MISSION : Time Limit";
 		values[] = {0,2,4,6,8,12,24};
 		texts[] = {"Never","2h","4h","6h","8h","12h","24h"};
-		default = 24;
+		default = 72;
 	};
 	class CTI_VICTORY_HQ {
 		title = "Zerty: MISSION : Victory on HQ Destroyed";
